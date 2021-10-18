@@ -1,0 +1,62 @@
+.login{
+	background-color: #D4ECDD;
+	background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+	height: 100vh;
+	position: relative;
+}
+
+.navbar{
+	background: #345B63;
+}
+.container1{
+	box-shadow: 1px 1px 1px 1px #D5D5D5;
+	border-radius: 5px;
+line-height: 60px;
+	padding: 20px 30px;
+	position: absolute;
+	inset: 0;
+	margin: auto;
+	background: white;
+	width: 50vh;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+.image img{
+	border-radius: 100px;
+}
+.container1 .input{
+	width: 100%;
+}
+
+.height-register{
+	height: 50vh;
+}
+
+.height-login{
+	height: 40vh;
+}
+.container1 h1{
+	font-size: 2rem;
+	font-weight: 500;
+	color: #38A3A5;	
+	font-family: 'Roboto', sans-serif;
+}
+.login-button{
+	line-height: 40px;
+	font-weight: 500;
+	box-shadow: 1px 1px #7EB5A6;
+	background: #38A3A5;
+	font-size: 1.2rem;
+	color: white;
+	margin: 0 0;
+	padding: 0px 10px;
+	border-radius: 10px;
+}
+
+.login-button:hover{
+	background: #22577A;
+	transition: 0.25s;
+}
